@@ -38,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/pallavi-325/leetcode-solution-/tree/main/0704-binary-search/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/pallavi-325/leetcode-solution-/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
