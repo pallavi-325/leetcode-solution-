@@ -42,14 +42,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pallavi-325/leetcode-solution-/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/pallavi-325/leetcode-solution-/tree/main/0013-roman-to-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-325/leetcode-solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/pallavi-325/leetcode-solution-/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-325/leetcode-solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/pallavi-325/leetcode-solution-/tree/main/0013-roman-to-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
