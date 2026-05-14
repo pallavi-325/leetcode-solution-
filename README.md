@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/pallavi-325/leetcode-solution-/tree/main/0027-remove-element/) | Easy |
 | [0704-binary-search](https://github.com/pallavi-325/leetcode-solution-/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/pallavi-325/leetcode-solution-/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
@@ -57,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-325/leetcode-solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/pallavi-325/leetcode-solution-/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
