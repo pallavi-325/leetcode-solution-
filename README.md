@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-325/leetcode-solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallavi-325/leetcode-solution-/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/pallavi-325/leetcode-solution-/tree/main/0058-length-of-last-word/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
