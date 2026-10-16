@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/pallavi-325/leetcode-solution-/tree/main/0027-remove-element/) | Easy |
 | [0704-binary-search](https://github.com/pallavi-325/leetcode-solution-/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/pallavi-325/leetcode-solution-/tree/main/0912-sort-an-array/) | Medium |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pallavi-325/leetcode-solution-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pallavi-325/leetcode-solution-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallavi-325/leetcode-solution-/tree/main/0013-roman-to-integer/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pallavi-325/leetcode-solution-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pallavi-325/leetcode-solution-/tree/main/0027-remove-element/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pallavi-325/leetcode-solution-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pallavi-325/leetcode-solution-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
